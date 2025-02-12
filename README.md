@@ -3,6 +3,8 @@
 
 # How to test
 
+Note: Setup Mysql and Create the table
+
 Step 1: Setup Postman
 Create a new Collection (e.g., "Grocery Booking API").
 Configure Authentication for the collection:
